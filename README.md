@@ -52,7 +52,7 @@ BlueStar leverages PyTorch's dynamic quantization to optimize the GPT-2 Large mo
 
 1. **Clone the Repository:**
     ```batch
-    git clone https://github.com/Bikatr7/BlueStar.git
+    git clone https://github.com/ktbilyeu/BlueStar.git
     cd BlueStar
     ```
 
@@ -65,7 +65,7 @@ BlueStar leverages PyTorch's dynamic quantization to optimize the GPT-2 Large mo
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Bikatr7/BlueStar.git
+    git clone https://github.com/ktbilyeu/BlueStar.git
     cd BlueStar
     ```
 
@@ -209,4 +209,4 @@ AGPL-3.0 - See `LICENSE.md` for details
 
 ## Contact
 
-For any questions, issues, or contributions, please open an issue on the [GitHub repository](https://github.com/Bikatr7/BlueStar).
+For any questions, issues, or contributions, please open an issue on the [GitHub repository](https://github.com/ktbilyeu/BlueStar).
